@@ -1,0 +1,309 @@
+p
+None
+Oh, hello! This is a wonderful page meant to let you practice web scraping. This page was originally created to help people work with the Beautiful Soup 4 library.
+
+p
+None
+The following table gives some general information for the following programming languages:
+
+p
+I think it's clear that, on a scale of 1-10, python is:
+I think it's clear that, on a scale of 1-10, python is:
+
+p
+Javascript (dynamic data) test:
+Javascript (dynamic data) test:
+
+p
+y u bad tho?
+y u bad tho?
+
+p
+Whᶐt hαppéns now¿
+Whᶐt hαppéns now¿
+
+p
+sitemap
+sitemap
+
+p
+Contact: Harrison@pythonprogramming.net.
+Contact: Harrison@pythonprogramming.net.
+
+p
+Programming is a superpower.
+Programming is a superpower.
+
+tr
+
+Program Name
+Internet Points
+Kittens?
+
+
+tr
+
+Python
+932914021
+Definitely
+
+
+tr
+
+Pascal
+532
+Unlikely
+
+
+tr
+
+Lisp
+1522
+Uncertain
+
+
+tr
+
+D#
+12
+Possibly
+
+
+tr
+
+Cobol
+3
+No.
+
+
+tr
+
+Fortran
+52124
+Yes.
+
+
+tr
+
+Haskell
+24
+lol.
+
+
+/
+#
+/
+/+=1/
+/support/
+https://goo.gl/7zgAVQ
+/login/
+/register/
+/
+/+=1/
+/support/
+https://goo.gl/7zgAVQ
+/login/
+/register/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+/sitemap.xml
+/support-donate/
+/consulting/
+https://www.facebook.com/pythonprogramming.net/
+https://twitter.com/sentdex
+https://instagram.com/sentdex
+/about/tos/
+/about/privacy-policy/
+https://xkcd.com/353/
+
+
+
+
+Python Programming Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+Home
++=1
+
+Support the Content
+Community
+Log in
+Sign up
+
+
+
+
+
+
+
+Home
++=1
+
+Support the Content
+Community
+Log in
+Sign up
+
+
+
+
+
+
+
+
+
+
+Oh, hello! This is a wonderful page meant to let you practice web scraping. This page was originally created to help people work with the Beautiful Soup 4 library.
+The following table gives some general information for the following programming languages:
+
+Python
+Pascal
+Lisp
+D#
+Cobol
+Fortran
+Haskell
+
+
+
+Program Name
+Internet Points
+Kittens?
+
+
+Python
+932914021
+Definitely
+
+
+Pascal
+532
+Unlikely
+
+
+Lisp
+1522
+Uncertain
+
+
+D#
+12
+Possibly
+
+
+Cobol
+3
+No.
+
+
+Fortran
+52124
+Yes.
+
+
+Haskell
+24
+lol.
+
+
+I think it's clear that, on a scale of 1-10, python is:
+
+
+
+
+
+
+Javascript (dynamic data) test:
+y u bad tho?
+
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+Whᶐt hαppéns now¿
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You've reached the end!
+Contact: Harrison@pythonprogramming.net.
+
+Support this Website!
+Consulting and Contracting
+Facebook
+Twitter
+Instagram
+
+
+
+Legal stuff:
+
+Terms and Conditions
+Privacy Policy
+
+
+
+
+Programming is a superpower.
+
+
+            © OVER 9000! PythonProgramming.net
+
+            
+
+
+
+
